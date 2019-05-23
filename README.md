@@ -19,7 +19,7 @@ let arrayHelper = new ArrayHelper // <- Instaciate it
 ```
 
 ## Example
-```
+``` javascript
 import { push } from 'svelte-array-helper'
 
 let list = [0,1,2,3]
@@ -34,36 +34,36 @@ function addToList(itemToAdd) {
 All methods will return the modified array
 
 ### push(array, value)
-```
+``` javascript
 push(array, value)
 ```
 
 ### pop()
-```
+``` javascript
 push(array)
 ```
 
 ### splice(array, ...args)
-```
+``` javascript
 splice(array, 0, 1, 'item1', 'item2' etc..)
 ```
 
 ### copyWithin(array, ...args)
-```
+``` javascript
 copyWithin(array, ...arguments)
 ```
 
 ### fill(array, ...args)
-```
+``` javascript
 fill(array, ...arguments)
 ```
 
 ### reverse(array)
-```
+``` javascript
 reverse(array)
 ```
 
 ### sort(array, ...args)
-```
+``` javascript
 sort(array, ...arguments)
 ```
