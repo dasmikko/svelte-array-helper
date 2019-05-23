@@ -1,0 +1,24 @@
+{
+  "name": "svelte-array-helper",
+  "version": "2.0.0",
+  "description": "A dead simple helper for modifying arrays in Svelte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasmikko/svelte-array-helper.git"
+  },
+  "keywords": [
+    "array",
+    "helper",
+    "svelte"
+  ],
+  "author": "Mikkel Andersen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dasmikko/svelte-array-helper/issues"
+  },
+  "homepage": "https://github.com/dasmikko/svelte-array-helper#readme"
+}

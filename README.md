@@ -25,7 +25,7 @@ import { push } from 'svelte-array-helper'
 let list = [0,1,2,3]
 
 function addToList(itemToAdd) {
-  list = push(list, itemToAdd) 
+  list = push(list, itemToAdd)
 }
 ```
 
@@ -48,9 +48,22 @@ push(array)
 splice(array, 0, 1, 'item1', 'item2' etc..)
 ```
 
-## To be implemented
+### copyWithin(array, ...args)
+```
+copyWithin(array, ...arguments)
+```
 
-- copyWithin()
-- fill()
-- reverse()
-- sort()
+### fill(array, ...args)
+```
+fill(array, ...arguments)
+```
+
+### reverse(array)
+```
+reverse(array)
+```
+
+### sort(array, ...sort)
+```
+sort(array, ...arguments)
+```
