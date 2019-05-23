@@ -63,7 +63,7 @@ fill(array, ...arguments)
 reverse(array)
 ```
 
-### sort(array, ...sort)
+### sort(array, ...args)
 ```
 sort(array, ...arguments)
 ```
