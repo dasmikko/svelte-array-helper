@@ -97,4 +97,4 @@ export const splice = ArrayHelper.prototype.splice
 export const copyWithin = ArrayHelper.prototype.copyWithin
 export const fill = ArrayHelper.prototype.fill
 export const reverse = ArrayHelper.prototype.reverse
-export const splisortce = ArrayHelper.prototype.sort
+export const sort = ArrayHelper.prototype.sort

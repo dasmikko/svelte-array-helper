@@ -1,6 +1,6 @@
 {
   "name": "svelte-array-helper",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "A dead simple helper for modifying arrays in Svelte",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,8 @@
   "keywords": [
     "array",
     "helper",
-    "svelte"
+    "svelte",
+    "utility"
   ],
   "author": "Mikkel Andersen",
   "license": "MIT",
