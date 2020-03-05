@@ -1,7 +1,7 @@
 # svelte-array-helper
-A dead simple helper for modifying arrays in Svelte, and make the code more readable.
+A dead simple helper for modifying arrays in Svelte, and making the code more readable.
 
-This library only contains the array methods, that mutate the array
+This library only contains the array methods that mutate the array.
 
 ## Installation
 ```
